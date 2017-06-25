@@ -5,7 +5,7 @@ export default class Footer extends React.Component {
     render() {
         return (
             <div className="topsectionAlignment footer">
-               <hr/>
+                <div><hr/></div>
                 <div >
                     <div className="col-md-3 col-sm-3 col-lg-3">
                         <p>&copy; 2017, photography.com</p>

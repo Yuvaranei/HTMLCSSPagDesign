@@ -20,11 +20,10 @@ export default class TopSection extends React.Component{
                         </nav>
                             {/*<iframe className="" src="https://www.youtube.com/embed/qVC8kTT1xl4" ></iframe>*/}
                             <div className="topsectionDescription">
-                                <h1>Morning beauty is always at its best. Sunshine at its best!!</h1>
-                                <p> get out get out of the home... fall into this place instead, to see the view. U got 
-                                    tat one thing</p>
+                                <h1>Tips for Best Nature Photography</h1>
+                                <p>Sunshine, Flower, Wildlife, Tulips, Sprouting, Underwater Photography</p>
                             </div>
-                            <a href="#">Play button</a>
+                            <a href="#"><img src="../images/playButton.png" alt="play button"/> Play button</a>
 
                         </div>
                     </section>
