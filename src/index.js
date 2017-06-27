@@ -18,7 +18,7 @@ import Footer from './footer.js'
 class Index extends React.Component{
     render(){
         return(
-            <div className="container">
+            <div className="index">
                 <TopSection/>
                 <Section1/>
                 <Section2/>

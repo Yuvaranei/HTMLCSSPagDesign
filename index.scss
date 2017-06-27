@@ -1,4 +1,4 @@
-.container{
+.index{
     overflow-x: hidden;
 }
 
@@ -137,12 +137,28 @@ border-radius: 100px!important;
 .section6{
      margin: 10% 14%;
      padding-top: 10%;
+     .floatBoxImage{
+         float: left;
+     }
      .boxImages{
-        width : 252px;
+        width : 344px;
         height: 200px;
         //float: left;
         border: 2px solid black;
         margin: 10px;
+    }
+    @media screen and (min-width: 800px )  and (max-width : 1520px){
+         .floatBoxImage{
+         float: none;
+     }
+        h2{
+            font-size: 15px;
+        }
+        .boxImages{
+            width : 500px;
+             height: 400px;
+        }
+        clear: both;
     }
 }
 
@@ -217,4 +233,14 @@ input[type="text"]{
             float: left;
         }
     }
+}
+
+.component5
+{
+    margin-top:50px;
+}
+
+.imagerow
+{
+    margin-top:40px;
 }
