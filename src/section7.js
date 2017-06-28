@@ -24,7 +24,7 @@ export default class Section7 extends React.Component {
                 </div>
 
             </div>
-           
+
         )
     }
 }

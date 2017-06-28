@@ -15,25 +15,25 @@ import Section9 from './section9'
 import Section10 from './section10'
 import Footer from './footer.js'
 
-class Index extends React.Component{
-    render(){
-        return(
+class Index extends React.Component {
+    render() {
+        return (
             <div className="index">
-                <TopSection/>
-                <Section1/>
-                <Section2/>
-                <Section3/>
-                <Section4/>
-                <Section5/>
-                <Section6/>
-                <Section7/>
-                <Section8/>
-                <Section9/>
-                <Section10/>
-                <Footer/>
+                <TopSection />
+                <Section1 />
+                <Section2 />
+                <Section3 />
+                <Section4 />
+                <Section5 />
+                <Section6 />
+                <Section7 />
+                <Section8 />
+                <Section9 />
+                <Section10 />
+                <Footer />
             </div>
         )
     }
 }
 
-ReactDOM.render(<Index/>,document.getElementById('container'))
+ReactDOM.render(<Index />, document.getElementById('container'))

@@ -11,9 +11,9 @@ export default class Section3 extends React.Component {
                     </div>
                     <div className="col-sm-1 col-md-1 col-lg-1"></div>
                     <div className="col-sm-5 col-md-5 col-lg-5">
-                        <img src="../images/tulip4.jpg" alt="Tulip1" className="tulip1" style={{ width: "100%" }}/>
-                        <img src="../images/tulip1.jpg" alt="Tulip2" className="tulip2" style={{ width: "90%" }}/>
-                        <img src="../images/tulip6.jpg" alt="Tulip3" className="tulip3" style={{ width: "70%" }}/>
+                        <img src="../images/tulip4.jpg" alt="Tulip1" className="tulip1" style={{ width: "100%" }} />
+                        <img src="../images/tulip1.jpg" alt="Tulip2" className="tulip2" style={{ width: "90%" }} />
+                        <img src="../images/tulip6.jpg" alt="Tulip3" className="tulip3" style={{ width: "70%" }} />
                     </div>
                 </div>
                 <div className="learnMoreButton"><button type="button" className="btn btn-default btn-lg">Learn More</button></div>

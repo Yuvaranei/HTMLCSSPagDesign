@@ -10,7 +10,7 @@ export default class Section2 extends React.Component {
                             <img src="../images/flower1.jpg" alt="Flower1" style={{ width: "100%" }} />
                             <div className="caption">
                                 <h3>Flower Photography </h3>
-                                <p>Primes are available at many focal lengths. These include 14mm, 24mm, 35mm, 50mm and 85mm and beyond. 
+                                <p>Primes are available at many focal lengths. These include 14mm, 24mm, 35mm, 50mm and 85mm and beyond.
                                     </p>
                             </div>
                         </div>
@@ -21,7 +21,7 @@ export default class Section2 extends React.Component {
                             <img src="../images/flower2.jpg" alt="Flower2" style={{ width: "100%" }} />
                             <div className="caption">
                                 <h3>Flower - Marry Gold</h3>
-                                <p>Macro photography lenses have a life size 1:1 ratio. 
+                                <p>Macro photography lenses have a life size 1:1 ratio.
                                     The ranges of macro focal lengths start from 40mm</p>
                             </div>
                         </div>
